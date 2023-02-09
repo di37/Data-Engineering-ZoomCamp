@@ -1,0 +1,13 @@
+**/*__pycache__
+**/*.ipynb_checkpoints
+**/*.csv
+**/*.parquet
+**/*.json
+**/*.pdf
+credentials
+**/*mount_folder
+**/*data_pgadmin
+**/*ny_taxi_postgres_data
+**/*.terraform
+**/*.terraform-version
+**/*.terraform.lock.hcl
